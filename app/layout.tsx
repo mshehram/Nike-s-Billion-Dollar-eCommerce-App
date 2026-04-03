@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Nike Store — eCommerce",
+  title: "Nike",
   description: "Browse the latest Nike products, sneakers, apparel, and accessories.",
 };
 
